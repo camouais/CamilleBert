@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camillebert&label=Profile%20views&color=0e75b6&style=flat" alt="camillebert" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camillebert" alt="camillebert" /></a> </p>
 
-- 🔭 I’m currently working on [Student App]((loading...))
+
+- 🔭 I’m currently working on [a Student App]
 
 - 🌱 I’m currently learning **Cybersecurity**
 
