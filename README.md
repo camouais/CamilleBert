@@ -5,8 +5,6 @@
 <!--subtitle -->
 <h3 align="center">A student in computer science from France.</h3>
 
-<!--view's number -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camillebert&label=Profile%20views&color=0e75b6&style=flat" alt="camillebert" /> </p>
 
 
 <!--description -->
