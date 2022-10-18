@@ -1,13 +1,15 @@
+<!--banner -->
 ![MasterHead](https://websitesecuritystore.com/wp-content/uploads/2021/10/how-to-secure-database.svg)
+<!--title -->
 <h1 align="center">Hi 👋, I'm Camille Berthaud</h1>
+<!--subtitle -->
 <h3 align="center">A student in computer science from France.</h3>
 
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/60038113/196480938-112bb954-c0bf-4beb-972e-960b7cfa0fbc.png)">
-
+<!--view's number -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camillebert&label=Profile%20views&color=0e75b6&style=flat" alt="camillebert" /> </p>
 
 
-
+<!--description -->
 - 🔭 I’m currently working on a Student App
 
 - 🌱 I’m currently learning **Cybersecurity**
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact **I love pop art and my little tortoise**
 
-
+<!--Langugaes/Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -60,11 +62,14 @@
 
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillebert&" alt="camillebert" />
-</p>
+<!--stat -->
+[![CamilleBert's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=CamilleBert&&theme=xcode)](https://github.com/CamilleBert)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilleBert&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CamilleBert" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilleBert&show_icons=true&locale=en&theme=tokyonight" alt="CamilleBert" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamilleBert&&theme=tokyonight" alt="CamilleBert" /></p>
 
 
 
