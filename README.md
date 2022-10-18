@@ -1,7 +1,8 @@
+![MasterHead](https://websitesecuritystore.com/wp-content/uploads/2021/10/how-to-secure-database.svg)
 <h1 align="center">Hi 👋, I'm Camille Berthaud</h1>
 <h3 align="center">A student in computer science from France.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/000/417/967/fad.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/60038113/196480938-112bb954-c0bf-4beb-972e-960b7cfa0fbc.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camillebert&label=Profile%20views&color=0e75b6&style=flat" alt="camillebert" /> </p>
 
