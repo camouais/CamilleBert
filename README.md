@@ -1,7 +1,7 @@
 <!--banner -->
 ![MasterHead](https://websitesecuritystore.com/wp-content/uploads/2021/10/how-to-secure-database.svg)
 <!--title -->
-<h1 align="center">Hi 👋, I'm Camille Berthaud</h1>
+<h1 align="center">Hi 👋, I'm Camille </h1>
 <!--subtitle -->
 <h3 align="center">A student in computer science from France.</h3>
 
