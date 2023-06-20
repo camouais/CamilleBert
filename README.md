@@ -60,14 +60,5 @@
 
 
 
-<!--stat -->
-[![CamilleBert's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=CamilleBert&&theme=xcode)](https://github.com/CamilleBert)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilleBert&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CamilleBert" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilleBert&show_icons=true&locale=en&theme=tokyonight" alt="CamilleBert" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamilleBert&&theme=tokyonight" alt="CamilleBert" /></p>
-
 
 
